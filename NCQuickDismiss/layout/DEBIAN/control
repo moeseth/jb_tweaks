@@ -1,0 +1,9 @@
+Package: com.w00tylab.ncquickdismiss
+Name: NCQuickDismiss
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Dimiss Notification Center and Banner alerts easily!
+Maintainer: moeseth
+Author: moeseth
+Section: Tweaks
